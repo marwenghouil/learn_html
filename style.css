@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+
+.navbar {
+  float: right;
+}
+
+.navbar ul {
+  list-style-type: none;
+}
+
+.navbar ul li {
+  display: inline;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.intro {
+  text-align: center;
+  color: white;
+}
+.welcome {
+  font-style: bold;
+  font-size: 20px;
+  color: #cc0412;
+}
+h1 {
+  font-style: bold;
+  font-size: 38px;
+}
+.intro button {
+  background-color: gray;
+  border-radius: 8px;
+  text-decoration: none;
+  width: 200px;
+  height: 50px;
+}
+.intro button a {
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+header {
+  background-color: #263238;
+}
+h2 {
+  font-weight: bold;
+  color: #cc0412;
+  text-align: center;
+}
+.Aboutme {
+  text-align: center;
+  background-color: #263238;
+  color: black;
+}
+.Resume {
+  text-align: center;
+  background-color: #263238;
+  color: white;
+}
+.Work {
+  text-align: center;
+  background-color: #263238;
+  color: black;
+}
+ul li {
+  text-align: left;
+  color: blue;
+}
+.Contact {
+  text-align: center;
+  background-color: #263238;
+  color: white;
+}
+table {
+  border: 1px solid #cc0412;
+  width: 50%;
+  height: 200px;
+  text-align: center;
+}
+table tr th {
+  background-color: #cc0412;
+}
+iframe {
+  width: 75%;
+  border: 1px solid #cc0412;
+}
+form {
+  text-decoration: none;
+  text-align: center;
+  width: 200px;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+form input {
+  text-align: center;
+  color: black;
+  background-color: white;
+  border: 1px solid #cc0412;
+  width: 250px;
+  height: 40px;
+  border-radius: 8px;
+}
+.submit {
+  background-color: gray;
+  width: 250px;
+  height: 40px;
+  border: 1px solid #cc0412;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: bold;
+}
+footer {
+  font-weight: bold;
+  text-align: center;
+}
